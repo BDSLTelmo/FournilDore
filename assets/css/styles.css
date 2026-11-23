@@ -1,5 +1,11 @@
 :root{
-    --placeholder-color : rgb(255,0,255)
+    --placeholder-color : rgb(255,0,255);
+    --primary-light:rgb(252, 241, 162);
+    --primary : rgb(250, 233, 120);
+    --primary-dark: rgb(191, 174, 63);
+    --secondary-light: rgb(23, 45, 191);
+    --secondary: rgb(5, 22, 135);
+    --secondary-dark: rgb(2, 13, 82);
 }
 
 * {
